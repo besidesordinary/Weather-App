@@ -118,8 +118,8 @@ The Weather Repository is a Dart class that provides an abstraction for fetching
 [product-screenshot]: images/screenshot.png
 [note-logo]: https://i.imgur.com/l5FQe3Db.jpg
 [openweather]: https://i.imgur.com/hmU0JBrm.jpg
-[screenshot]: https://i.imgur.com/qRozjdzl.png
-[screenshot1]: https://i.imgur.com/YFtcKnVl.png
+[screenshot]: https://i.imgur.com/qRozjdzh.png
+[screenshot1]: https://i.imgur.com/YFtcKnVh.png
 
 
 
@@ -127,5 +127,3 @@ The Weather Repository is a Dart class that provides an abstraction for fetching
  
 
 
-# Weather-App
-# Weather-App
