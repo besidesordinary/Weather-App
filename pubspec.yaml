@@ -1,0 +1,33 @@
+name: weather_app
+description: A new Flutter project.
+publish_to: "none"
+version: 0.1.0
+
+environment:
+  sdk: ">=2.19.2 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^0.13.5
+  lottie: ^1.0.0
+  geolocator: ^9.0.2
+  permission_handler: ^10.2.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+  flutter_launcher_icons: ^0.13.0
+flutter_icons:
+  image_path: "assets/icon.jpg"
+  android: "launcher_icon"
+  ios: true
+
+flutter:
+  uses-material-design: true
+
+  # To add assets to your application, add an assets section, like this:
+  assets:
+    - assets/images/night.jpg
+    - assets/images/day.jpg
