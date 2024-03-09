@@ -2,10 +2,10 @@ workflows:
     android-workflow-id:
         name: Android Sample Workflow
         environment:
-            flutter: non_existent_version
+            flutter: stable
         # .......
     ios-workflow-id:
         name: iOS Sample Workflow
         environment:
-            flutter: non_existent_version
+            flutter: stable
         # .......
